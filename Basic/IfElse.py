@@ -1,3 +1,7 @@
+# Bedingungen
+# wenn eine Bedingung erfüllt ist mach ich das
+# if / elif / else = wenn / oder / nicht
+
 x = 5
 
 if x < 5:
